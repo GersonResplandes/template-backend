@@ -1,5 +1,7 @@
 # Template Backend – Padrão Profissional
 
+> Template de referência para iniciar APIs Node.js com TypeScript, qualidade automatizada e uma estrutura preparada para crescer.
+
 Template backend em **Node.js + TypeScript** focado em **qualidade, padronização, segurança e escalabilidade**. Este repositório serve como base para iniciar novos projetos já com as melhores práticas aplicadas desde o primeiro commit.
 
 > **Objetivo**: reduzir retrabalho, evitar inconsistências e elevar o nível profissional dos projetos backend.
@@ -46,7 +48,7 @@ src/
 ### Opção 1 – Clonar diretamente
 
 ```bash
-git clone https://github.com/Me-Documentacao/template-backend.git
+git clone https://github.com/GersonResplandes/template-backend.git
 cd template-backend
 npm install
 ```
